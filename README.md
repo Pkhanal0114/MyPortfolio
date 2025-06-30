@@ -2,14 +2,14 @@
 
 ## Follow these steps:
 
-# ```sh (Bash)
+# sh (Bash)
 
 # Step 1: Install the necessary dependencies.
 npm i or npm install
 
 # Step 2: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
+
 
 
 ## What technologies are used for this project?
